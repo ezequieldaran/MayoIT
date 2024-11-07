@@ -17,7 +17,7 @@
 
                         <h1 style="text-align: center;">MayoIT</h1>
                         <h3>Descripcion</h3>
-                        <p>Es un sistema para hacer cosas, gestionar tickets de soporte usando proyectos, categorias, prioridades y mas, ideal para todo tipo de negocios, desarrollo de proyectos, gestion personal, etc, el sistema esta desarrollado con PHP y MySQL.</p>
+                        <p>Es un sistema para hacer cosas, gestionar tickets de soporte usando proyectos, categorias, prioridades y mas, ideal para todo tipo de negocios, desarrollo de proyectos, gestion personal, etc, el sistema esta desarrollado con PHP y MySQL. Con el agregado de detalles en js, ajax, bootstrap y modal</p>
                         <p>Es un sistema de tickets de soporte en el que puedes rellenar tu perfil, agregar ticket, proyectos y categorias, generar reportes y mucho mas.</p>
 
                                                 <h3>Modulos</h3>
