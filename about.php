@@ -13,7 +13,7 @@
                         <h1>Acerca de</h1>
                         <br>
 
-                        <p>En enero y febrero nos vamos de vacaciones, en marzo empiezan las clases. <b>Abril</b> es un asco, por eso somos...</p>
+                        <p>En enero y febrero nos vamos de vacaciones, en marzo empiezan las clases. <b>Abril</b> no es lo que parece; por eso somos...</p>
 
                         <h1 style="text-align: center;">MayoIT</h1>
                         <h3>Descripcion</h3>
