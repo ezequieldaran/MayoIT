@@ -23,18 +23,18 @@
                                                 <h3>Modulos</h3>
                         <p>Defino a grandes rasgos los modulos generales del sistema</p>
                         <ul>
-                        <li><b>Necesito ayuda</b>: Este modulo actua como una especie de guía para el usuario, dando paso al soporte inicial. El usuario podría buscar respuestas en una base de conocimientos previa (FAQ) o enviar consultas directas al equipo de soporte si no se encuentra una solución en las FAQ.</li>						
-                        <li><b>Clientes</b>: Desde acá se nos permite gestionar la información de los clientes, incluyendo sus datos de contacto, historial de tickets, proyectos activos y cualquier tipo de información que sea de gran relevancia para su seguimiento.</li>
+                        <li><b>Dashboard</b>: Este modulo actua como una especie de tablero de control para el usuario.</li>						
                         <li><b>Tickets</b>: Módulo central del sistema, donde se encuentra la creación, seguimiento y resolución de tickets. Incluye opciones para asignar tickets a miembros del equipo, establecer prioridades y añadir notas o comentarios sobre el progreso.</li>
-                        <li><b>Proyectos</b>: Cada usuario puede agregar y organizar los proyectos en los que está trabajando. Los tickets y tareas se pueden asociar a proyectos específicos, permitiendo una gestión integrada del trabajo..</li>
-                        <li><b>Perfiles</b>: Los usuarios pueden rellenar su perfil. Cada perfil tiene configuraciones especficas, roles y permisos basados en su nivel de acceso.</li>
-                        <li><b>Categorias</b>: Desde acá aquellos que tengan acceso pueden organizar los tickets y proyectos por categorias, facilitando la clasificacion y la busqueda de información. Las categorías pueden ser ajustadas según sea necesario.</li>
-                        <li><b>Reportes</b>: Se generan informes detallados sobre el uso y rendimiento del sistema. Estos reportes pueden abarcar metricas como el tiempo de respuesta, resolución de tickets y rendimiento de los usuarios o equipos de trabajo (esto capaz es un poco 2much).</li>
+                        <li><b>Sucursal</b>: Para dar de alta o modificar las sucursales de servicio técnico.</li>
+                        <li><b>Categorias</b>: Desde acá se pueden organizar las categorias. Las categorías pueden ser ajustadas según sea necesario.</li>
+                        <li><b>Reportes</b>: Se generan informes detallados sobre el uso y rendimiento del sistema. Estos reportes pueden abarcar metricas como el tiempo de respuesta, resolución de tickets y rendimiento de los usuarios o equipos de trabajo.</li>
+                        <li><b>Clientes</b>: Los usuarios pueden rellenar su perfil. Cada perfil tiene configuraciones especficas, roles y permisos basados en su nivel de acceso.</li>
+                        <li><b>Presupuestos</b>: Módulo para dar de alta o revisar los presupestos.</li>
                         </ul>
 
                         <br><br>
                         
-                        <h3>No nos apruebes, ya sabemos que pasamos de taquito, ni te calentes</h3>
+                        <h3>Muchas gracias</h3>
                         
 
                         <h1 style="text-align: center;"><a href="#" target="_blank"> </a></h1>
