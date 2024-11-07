@@ -82,35 +82,7 @@ if (isset($_POST['generar_pdf'])) {
                             </div>
                         </form>
                     </section>
-                    <!-- Formulario para seleccionar los datos del presupuesto -->
-                    <section class="generate_pdf">
-                        <h2>Generar Presupuesto en PDF</h2>
-                        <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post">
-                            <div>
-                                <label for="fecha_inicio">Fecha de inicio:</label>
-                                <input type="date" id="fecha_inicio" name="fecha_inicio" required>
-                            </div>
-                            <div>
-                                <label for="fecha_fin">Fecha de fin:</label>
-                                <input type="date" id="fecha_fin" name="fecha_fin" required>
-                            </div>
-                            <div>
-                                <label for="tipo_presupuesto">Tipo de presupuesto:</label>
-                                <select id="tipo_presupuesto" name="tipo_presupuesto" required>
-                                    <option value="1">Presupuesto anual</option>
-                                    <option value="2">Presupuesto trimestral</option>
-                                    <!-- ... -->
-                                </select>
-                            </div>
-                            <div>
-                                <input type="submit" name="generar_pdf" value="Generar PDF">
-                            </div>
-                        </form>
-                        <!-- Mostrar el PDF generado -->
-                        <?php if (isset($presupuesto_data)) { ?>
-                            <a href="presupuesto.pdf" target="_blank">Descargar PDF</a>
-                        <?php } ?>
-                    </section>
+  
                 </div>
             </div>
         </div>
