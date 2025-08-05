@@ -1,1 +1,1 @@
-el usuario de acceso que dejamos guardado en los datos del deploy del mysql es:  ezequiel.daran@gmail.com	con clave 123123
+
